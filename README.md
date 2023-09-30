@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anmol</h1>
-<h3 align="center">Computer Vision & deep learning intern</h3>
+<h3 align="center">Computer Vision intern</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03anmol&label=Profile%20views&color=0e75b6&style=flat" alt="03anmol" /> </p>
 
