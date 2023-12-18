@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@nmol_033" target="blank"><img src="https://img.shields.io/twitter/follow/@nmol_033?logo=twitter&style=for-the-badge" alt="@nmol_033" /></a> </p>
 
-- 🔭 I’m currently working on **YOLOV4 Automation App**
+- 🔭 I’m currently working on **AUTO ANNOTATION TOOL**
 
 - 🌱 I’m currently learning **Tensorflow,pytorch,deeplearning,machinelearning,sklearn**
 
