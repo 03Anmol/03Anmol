@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anmol</h1>
-<h3 align="center">Computer Vision intern</h3>
+<h3 align="center">Computer Vision Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03anmol&label=Profile%20views&color=0e75b6&style=flat" alt="03anmol" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Tensorflow,pytorch,deeplearning,machinelearning,sklearn,python,flask,tkinter,django,mysql,data Analyatics,**
 
-- 📫 How to reach me **anmolkumar200234@gmail.com**
+- 📫 How to reach me **anmolkumar200234@gmail.com and anmolkumar2002093@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
